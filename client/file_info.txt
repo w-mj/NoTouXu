@@ -1,0 +1,9 @@
+Test@A test directory@0
+E:\workplace\PythonInternet\client\test\client\client_net_module.py|1480211106.1443055|22fbb4701d5160be09edd011c027346a
+E:\workplace\PythonInternet\client\test\client\file_receive_from_server.py|1480164039.1344595|9a1a7f909a8b20be35522dd8add85ddd
+E:\workplace\PythonInternet\client\test\client\file_send_to_server.py|1480174973.4256756|4868b91d071f613af9317c0d6546d3d8
+E:\workplace\PythonInternet\client\test\client\__pycache__\file_receive_from_server.cpython-35.pyc|1480164040.3555713|5976e7b3743ffe9665833df040339fbe
+E:\workplace\PythonInternet\client\test\client\__pycache__\file_send_to_server.cpython-35.pyc|1480175596.410135|40dbaf7b19dee139558b3c807b50c188
+E:\workplace\PythonInternet\client\test\client\__pycache__\ui.cpython-35.pyc|1480155395.3399508|1f076a4697b414c9ce3d393acf81f56b
+E:\workplace\PythonInternet\client\test\client\__pycache__\|1480223716.0642674
+E:\workplace\PythonInternet\client\test\client\|1480223716.0642674
